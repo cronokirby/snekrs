@@ -1,0 +1,7 @@
+[package]
+name = "snekrs"
+version = "0.1.0"
+authors = ["cronokirby <cronokirby@gmail.com>"]
+
+[dependencies]
+piston_window = "0.64.0"
